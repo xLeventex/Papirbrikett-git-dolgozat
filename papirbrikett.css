@@ -58,9 +58,14 @@ p:first-letter{
 
 .kiemelt{
   font-style: italic;
+  font-weight: bold;
 }
 
 li{
   margin-top: 10px;
 
+}
+
+#borderbottom {
+  border-bottom: 2px solid black;
 }
