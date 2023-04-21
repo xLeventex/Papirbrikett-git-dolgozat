@@ -21,6 +21,7 @@ h1, h2{
   background-color: #EBEBEB;
   padding: 10px 35px;
   font-size: 75%;
+  border-top:1px solid #3F4F5F;
 }
 
 #brikettek{
@@ -60,5 +61,5 @@ p:first-letter{
 
 li{
   margin-top: 10px;
-  
+
 }
