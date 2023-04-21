@@ -6,7 +6,7 @@ body{
 }
 
 h1{
-
+  text-align: center;
   margin: 10px 0px 40px;
 }
 
@@ -60,4 +60,5 @@ p:first-letter{
 
 li{
   margin-top: 10px;
+  
 }
